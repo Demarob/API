@@ -1,7 +1,8 @@
 package ru.Netology;
 
 public class FormDate {
-    public String day = "13";
-    public String month = "6";
-    public String year = "1999";
+    public int day = 13;
+    public int month = 6;
+    public int year = 1999;
+
 }

@@ -9,12 +9,5 @@ package ru.Netology;
         public boolean subscription = true;
         public FormDate birthday;
 
-//
-//        "name": "Иван",
-//                "passport": "4444 № 44444444",
-//                "patronymic": "Иванович",
-//                "phone": "+7 (999)-999-99-99",
-//                "surname": "Иванов",
-//                "subscription": true
-}
+    }
 
